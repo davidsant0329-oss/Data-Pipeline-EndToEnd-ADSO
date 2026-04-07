@@ -31,7 +31,7 @@ Para este paso, utilicé **Desarrollo asistido por IA** para optimizar la escrit
 Una vez procesados, los datos se alojan en una instancia local de **SQL Server Express**. Esta etapa garantiza la integridad de los datos y permite un modelado relacional profesional.
 
 > **Ubicación de los datos en SQL Server:**
-> ![Captura de SQL Server Management Studio](./img/sql_verification.jpg)
+> ![Captura de SQL Server Management Studio](SQL_EXPRESS.png)
 > *Consulta de verificación de los registros importados exitosamente.*
 
 ---
