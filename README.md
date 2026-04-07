@@ -49,7 +49,4 @@ Una vez procesados, los datos se alojan en una instancia local de **SQL Server E
 Este proyecto es el testimonio de mi capacidad de **autoaprendizaje y resolución de problemas**. Ante la limitación de cuentas empresariales, diseñé este puente técnico que hoy funciona como un sistema de BI profesional.
 
 ---
-**Desarrollado por:** [Tu Nombre]  
-**Ficha:** ADSO - SENA 2026  
-**Trayectoria:** Aprendizaje autónomo (VS Code, SQL, Power BI) desde el 12 de marzo.  
-*"Transformando datos en impacto visual y estratégico."*
+**Desarrollado por:** DAVID SANTIAGO VELASQUEZ LASPRILLA
