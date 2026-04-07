@@ -14,7 +14,7 @@ Este ecosistema de datos fue desarrollado íntegramente el **5 de abril**, como 
 Iniciamos con un archivo plano que contiene la información sin procesar. Este es el punto de partida de nuestra ingesta.
 
 > **Visualización del archivo CSV:**
-> ![Captura del CSV](Captura del CSV.png)
+> ![Captura del CSV](Captura_del_CSV.png)
 
 ---
 
