@@ -22,7 +22,7 @@ Iniciamos con un archivo plano que contiene la información sin procesar. Este e
 Para este paso, utilicé **Desarrollo asistido por IA** para optimizar la escritura de los scripts de limpieza en Python, garantizando una carga eficiente de los registros hacia el motor de base de datos.
 
 > **Terminal de VS Code (Confirmación de envío a SQL):**
-> ![Captura de la Terminal](./img/terminal_confirm.jpg)
+> ![Captura de la Terminal](Terminal_Load.png)
 > *Aquí se observa el log de ejecución del 5 de abril, confirmando la inserción de datos.*
 
 ---
