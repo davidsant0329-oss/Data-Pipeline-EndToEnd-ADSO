@@ -42,6 +42,26 @@ Una vez procesados, los datos se alojan en una instancia local de **SQL Server E
 > **Resultado Final - Dashboard Estratégico:**
 > ![Resultado Power BI](GIF_POWERBI.gif)
 > *Dashboard con diseño moderno (Arial Black / Sombras), filtros dinámicos y métricas clave de negocio.*
+> ## 📊 Análisis Detallado del Dashboard (Insights & UX)
+
+El tablero fue diseñado bajo una arquitectura de **User Experience (UX)** que permite transformar los datos crudos de SQL en decisiones estratégicas. A continuación, el desglose de los componentes visuales:
+
+### 🗂️ Panel de Navegación (Slicers)
+* **Segmentación por Departamento:** Ubicado a la izquierda como un menú lateral dinámico. Permite filtrar instantáneamente toda la metadata por áreas clave (Ciberseguridad, Finanzas, Logística, etc.), facilitando el análisis comparativo entre equipos.
+
+### 📈 Indicadores de Rendimiento y Seguridad (KPIs)
+* **Gráfico de Indicador (Gauge Chart):** Muestra el acumulado de `login_attempts`. Funciona como un termómetro de actividad que permite visualizar rápidamente si los accesos están dentro de los rangos normales de operación.
+* **Distribución de Seguridad (Donut Chart):** Clasifica la suma de intentos de inicio de sesión por **Categoría de Salario**. Este visual es crítico para identificar si existe una correlación entre el nivel jerárquico y la actividad en el sistema.
+
+### 🧪 Correlación y Tendencias
+* **Análisis de Dispersión (Scatter Plot):** Relaciona la **Antigüedad (meses)** con el monitoreo (`mon`). Este visual permite identificar *outliers* (datos atípicos) y observar la estabilidad de los colaboradores veteranos vs. los nuevos ingresos.
+* **Promedio por Departamento (Bar Chart):** Una comparativa clara de las métricas de monitoreo promedio, permitiendo identificar qué áreas requieren mayor atención o recursos.
+
+### 📑 Detalle Transaccional
+* **Tabla Dinámica de Registros:** Proporciona el nivel de detalle más bajo (*Granularidad*). Incluye nombre, email y departamento, permitiendo realizar auditorías directas sobre los datos que fueron procesados previamente en el script de Python.
+
+---
+> **Nota técnica:** El diseño utiliza una paleta de colores minimalista con **Sombras (Shadows)** aplicadas a cada contenedor para mejorar la jerarquía visual y reducir la fatiga cognitiva del usuario.
 
 ---
 
