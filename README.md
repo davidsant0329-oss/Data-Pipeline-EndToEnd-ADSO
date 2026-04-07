@@ -40,7 +40,7 @@ Una vez procesados, los datos se alojan en una instancia local de **SQL Server E
 **Proceso 100% Manual:** La conexión entre SQL Server y Power BI, el modelado de medidas DAX y el diseño de la interfaz fueron realizados con mis propios conocimientos técnicos adquiridos desde marzo.
 
 > **Resultado Final - Dashboard Estratégico:**
-> ![Resultado Power BI](./img/dashboard_final.jpg)
+> ![Resultado Power BI](GIF_POWERBI.gif)
 > *Dashboard con diseño moderno (Arial Black / Sombras), filtros dinámicos y métricas clave de negocio.*
 
 ---
